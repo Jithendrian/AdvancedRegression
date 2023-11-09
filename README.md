@@ -1,4 +1,4 @@
-# Advanced Regression Assignmen 
+# Advanced Regression Assignment 
 > An Advanced Linear Regression Assignment with using Ridge and Lasso.
 
 ## Table of Contents
